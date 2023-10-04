@@ -13,9 +13,6 @@ BLOCK DIAGRAM![image](https://github.com/Santhiya-Ganesh/Sentiment-Classificatio
 ![image](https://github.com/Santhiya-Ganesh/Sentiment-Classification-of-Reviews/assets/98630881/a9940b00-56bf-4d04-8a97-d2d8cf058a08)
 
 
-RESULTS AND DISCUSSION![image](https://github.com/Santhiya-Ganesh/Sentiment-Classification-of-Reviews/assets/98630881/23cc3675-ea4d-4be0-9040-cc6e8a82a07b)
-![image](https://github.com/Santhiya-Ganesh/Sentiment-Classification-of-Reviews/assets/98630881/5e013650-e3ed-4dfd-b068-eb1402ccd6bf)
-
 #conclusion
 In conclusion, aspect sentiment classification of a company using Naive Bayes and Artificial Bee Colony algorithm is a valuable task that can provide insights into the customer's perception of different aspects of the company.
  The combination of Naive Bayes and ABC algorithm can improve the performance of the classifier by optimizing its hyper parameters and feature weights. 
