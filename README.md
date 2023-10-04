@@ -9,11 +9,10 @@ To optimize the hyper parameters of the Naive Bayes classifier, we used the Arti
 
 
 
-BLOCK DIAGRAM![image](https://github.com/Santhiya-Ganesh/Sentiment-Classification-of-Reviews/assets/98630881/162dab85-d89e-4ce4-b71a-d34d5f642b1a)
-![image](https://github.com/Santhiya-Ganesh/Sentiment-Classification-of-Reviews/assets/98630881/a9940b00-56bf-4d04-8a97-d2d8cf058a08)
 
 
 #conclusion
+
 In conclusion, aspect sentiment classification of a company using Naive Bayes and Artificial Bee Colony algorithm is a valuable task that can provide insights into the customer's perception of different aspects of the company.
  The combination of Naive Bayes and ABC algorithm can improve the performance of the classifier by optimizing its hyper parameters and feature weights. 
 This model utilized the manually generated lexicons with hybrid regulations to handle a number of the key challenges in aspect-primarily based sentiment analysis mainly and sentiment evaluation in general. This approach reported high performance consequences through an included lexicon and rule-primarily based model. 
